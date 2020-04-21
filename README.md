@@ -1,3 +1,4 @@
 # automatic-eureka
 
 test
+test
